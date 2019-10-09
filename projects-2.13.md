@@ -28,6 +28,7 @@ You can subscribe to the linked tickets to find out when a library you want beco
 
 * [scala-refactoring](https://github.com/scala-ide/scala-refactoring/issues/202)
 * [scalac-profiling](https://github.com/scalacenter/scalac-profiling/issues/30)
+* [phantom] (https://github.com/outworkers/phantom/issues/901)
 
 ### other
 
